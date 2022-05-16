@@ -21,7 +21,7 @@ There are several tools and options available that can assist you during the ass
 * Use the [Qlik Cloud migration tools](https://help.qlik.com/en-US/migration/Content/Migration/Qlik-migration-playbook.htm "Qlik Cloud migration tools") (a Qlik Sense App, migration scripts and a migration playbook) to help you during the migration process.
 * Qlik Consulting also offers various packages that can actively support you during your migration, e.g. a "Qlik on-prem to cloud migration" package. Check out our what's available in the latest version of our [Qlik Consulting Catalog](https://www.qlik.com/us/services/qlik-consulting "Qlik Consulting Catalog")
 
-Further detailed information on migration topics can be found in ou [Migration Center](https://help.qlik.com/en-US/migration/Content/Migration/Home.htm "Qlik Migration Center")
+Further detailed information on the migration to Qlik Cloud can be found in our Migration Center (click on the image below to get there)!
 
 [![Migration Center](https://user-images.githubusercontent.com/72072893/168600571-78fa1f85-2656-477c-9dec-33d0b0221263.png)](https://help.qlik.com/en-US/migration/Content/Migration/Home.htm "Qlik Migration Center")
 
