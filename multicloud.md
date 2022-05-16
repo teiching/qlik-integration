@@ -22,7 +22,7 @@ If you have already deployed Qlik Sense Enterprise on Windows, connecting it to 
 
 The following diagram shows how a multi-cloud deployment with Qlik Sense client managed and Qlik Sense SaaS works:
 
-[[!Multi-cloud deployment](https://help.qlik.com/en-US/sense-admin/November2021/Subsystems/DeployAdministerQSE/Content/Resources/Images/dr_multi-cloud2.svg)](https://help.qlik.com/en-US/sense-admin/November2021/Subsystems/DeployAdministerQSE/Content/Sense_DeployAdminister/Multi-Cloud/Cloud-deployment.htm "Multi-cloud deployment")
+[![Multi-cloud deployment](https://help.qlik.com/en-US/sense-admin/November2021/Subsystems/DeployAdministerQSE/Content/Resources/Images/dr_multi-cloud2.svg)](https://help.qlik.com/en-US/sense-admin/November2021/Subsystems/DeployAdministerQSE/Content/Sense_DeployAdminister/Multi-Cloud/Cloud-deployment.htm "Multi-cloud deployment")
 
 
 ## Migrating to Qlik Sense SaaS
