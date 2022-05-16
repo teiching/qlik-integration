@@ -12,22 +12,11 @@ Migrating to Qlik Cloud from your on-premis Qlik system is a journey that requir
 * Run an assessment of your current system to collect information and metrics that facilitate the planning process, e.g. How many apps do you have? What are their usage metrics? What datasources are you currently using in you analytics apps and how can these be made available for consumption in the cloud?
 * Define your strategic direction for moving your analytics to the cloud based on your business needs.
 
-As shown below, the detailed assessment should be the starting point in our recommended phased approach. Click on the image for further information regarding the planning process in our Qlik Migration Center!   
+As shown in the diagram below, the detailed assessment should be the starting point in our recommended phased approach. After that you can start offloading the consumption of your analytic apps into Qlik Cloud, followed by creating the data pipeline that moves your on-premise data to the cloud as well until you reach the state of Active Intelligence where the Qlik Cloud capabilities actively support you in making informed decisions. Click on the image for further information regarding the planning process in our Qlik Migration Center!   
 
 [![Phases of migration to Qlik Cloud](https://help.qlik.com/en-US/migration/Content/Resources/Images/SaaSMigrationPhases.png "Phases of migration to Qlik Cloud")](https://help.qlik.com/en-US/migration/Content/Migration/qliksense-qliksense-planning-your-migration.htm)
 
-### Key considerations
-### Best-practice workflow
+There are several tools and options available that can assist you during the assessment and migration process:
+* Engage with Qlik Presales / Consulting to obtain a detailed assessment of your current apps and their SaaS readiness.
+* Use the [Qlik Cloud migration tools](https://help.qlik.com/en-US/migration/Content/Migration/Qlik-migration-playbook.htm "Qlik Cloud migration tools") (a Qlik Sense App, migration scripts and a migration playbook) to help you during the migration process.
 
-1. Engage with Qlik Presales or Consulting for an analysis of your existing QlikView / Qlik Sense Apps with the Qlik SaaS Readiness app to get some insight into where you are in your journey to SaaS and create a transition plan.
-If you are running QlikView, you can also use the [QlikView Governance Dashboard App](https://help.qlik.com/en-US/governance-dashboard/Content/QV_GovDashboard/What.htm) to collect some additional metrics on your QlikView Applications
-
-![image](https://user-images.githubusercontent.com/72072893/166587639-dee6d381-c2ec-4769-876b-d0f554dd0a74.png)
-
-
-
-2. Offload the consumption of your QlikView/Qlik Sense applications to the cloud by publishing them to Qlik Sense SaaS. Development of apps, app reloads as well as reporting will continue on you on-premises systems. 
-3. Create a data pipeline to move data from your on-premises system to the cloud. This could be done using Hybrid Data Delivery, using the Qlik Data Gateway or even publishing entire QVDs to the cloud
-4. Once all your relevant apps and the connected data have been migrated to the cloud, you can now also continue with app development inside Qlik Sense SaaS and also run the app reloads there. Ideally you won't need your on-premises system anymre
-
-## FAQ
