@@ -6,7 +6,11 @@ This page will provide you with some information about the most common multi-clo
 ### Using QlikView with Qlik Sense SaaS
 ### Using Qlik Sense Client Managed with Qlik Sense SaaS
 
-## Moving to Qlik Sense SaaS
+## Migrating to Qlik Sense SaaS
+Migrating to Qlik Cloud is a journey that 
+
+[![Phases of migration to Qlik Cloud](https://help.qlik.com/en-US/migration/Content/Resources/Images/SaaSMigrationPhases.png "Phases of migration to Qlik Cloud")](https://help.qlik.com/en-US/migration/Content/Resources/Images/SaaSMigrationPhases.png)
+
 ### Key considerations
 ### Best-practice workflow
 
