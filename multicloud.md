@@ -7,7 +7,10 @@ This page will provide you with some information about the most common multi-clo
 ### Using Qlik Sense Client Managed with Qlik Sense SaaS
 
 ## Migrating to Qlik Sense SaaS
-Migrating to Qlik Cloud is a journey that 
+Migrating to Qlik Cloud from your on-premis Qlik system is a journey that requires some [planning](https://help.qlik.com/en-US/migration/Content/Migration/qliksense-qliksense-planning-your-migration.htm "Planning your migration to Qlik Cloud") in advance. Here are some steps that you should perform as part of your planning process:
+
+* Run an assessment of your current system to collect information and metrics that facilitate the planning process, e.g. How many apps do you have? What are their usage metrics? What datasources are you currently using in you analytics apps and how can these be made available for consumption in the cloud?
+* Define your strategic direction for moving your analytics to the cloud based on your business needs   
 
 [![Phases of migration to Qlik Cloud](https://help.qlik.com/en-US/migration/Content/Resources/Images/SaaSMigrationPhases.png "Phases of migration to Qlik Cloud")](https://help.qlik.com/en-US/migration/Content/Migration/qliksense-qliksense-planning-your-migration.htm)
 
