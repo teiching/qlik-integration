@@ -20,7 +20,7 @@ Further information on how to use QlikView with Qlik Sense SaaS in a multicloud 
 ### Using Qlik Sense Client Managed with Qlik Sense SaaS
 If you have already deployed Qlik Sense Enterprise on Windows, connecting it to Qlik Sense Enterprise SaaS will allow your users to develop apps on-premises and distribute them to the cloud for consumption. Users won't be able though to modify apps that you have published to the cloud from your client managed deployment. Another prerequisit is that your Qlik Sense license includes the multi-cloud option.
 
-The following diagram shows how a multi-cloud deployment with Qlik Sense client managed and Qlik Sense SaaS works:
+The following diagram shows how a multi-cloud deployment with Qlik Sense client managed and Qlik Sense SaaS works. Once your multi-cloud deploymentr is configured, users can distribute apps created in your on-premise systems for consumption to the cloud. Thanks to a common identity provider users access both Qlik Sense client managed as well as Qlik Sense SaaS with one single license.
 
 [![Multi-cloud deployment](https://help.qlik.com/en-US/sense-admin/November2021/Subsystems/DeployAdministerQSE/Content/Resources/Images/dr_multi-cloud2.svg)](https://help.qlik.com/en-US/sense-admin/November2021/Subsystems/DeployAdministerQSE/Content/Sense_DeployAdminister/Multi-Cloud/Cloud-deployment.htm "Multi-cloud deployment")
 
