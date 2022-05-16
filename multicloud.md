@@ -4,7 +4,7 @@ This page will provide you with some information about the most common multi-clo
 
 ## Common Multi-Cloud scenarios
 ### Using QlikView with Qlik Sense SaaS
-If you are coming from QlikView, you can upload and access your existing QlikView apps to Qlik Sense SaaS given the following prerequisits are met:
+If you are alread running on QlikView, you can upload and access your existing QlikView apps to Qlik Sense SaaS given the following prerequisits are met:
 
 * Your QlikView release is at least April 2019 or newer
 * Your QlikView license is a [Unified License](https://community.qlik.com/t5/Knowledge/QlikView-amp-Qlik-Sense-Unified-Dual-Use-License-User-Allocation/ta-p/1717668) with SaaS Add-on.
@@ -18,6 +18,12 @@ In case these conditions are met you will be able to:
 Further information on how to use QlikView with Qlik Sense SaaS in a multicloud deployment can be found in our [Online Help](https://help.qlik.com/en-US/cloud-services/Subsystems/Hub/Content/Global_Common/Migrate/using-QV-cloud-hub.htm "Qlik View apps in Qlik Sense")
 
 ### Using Qlik Sense Client Managed with Qlik Sense SaaS
+If you have already deployed Qlik Sense Enterprise on Windows, connecting it to Qlik Sense Enterprise SaaS will allow your users to develop apps on-premises and distribute them to the cloud for consumption. Users won't be able though to modify apps that you have published to the cloud from your client managed deployment. Another prerequisit is that your Qlik Sense license includes the multi-cloud option.
+
+The following diagram shows how a multi-cloud deployment with Qlik Sense client managed and Qlik Sense SaaS works:
+
+[[!Multi-cloud deployment](https://help.qlik.com/en-US/sense-admin/November2021/Subsystems/DeployAdministerQSE/Content/Resources/Images/dr_multi-cloud2.svg)](https://help.qlik.com/en-US/sense-admin/November2021/Subsystems/DeployAdministerQSE/Content/Sense_DeployAdminister/Multi-Cloud/Cloud-deployment.htm "Multi-cloud deployment")
+
 
 ## Migrating to Qlik Sense SaaS
 Migrating to Qlik Cloud from your on-premis Qlik system is a journey that requires some [planning](https://help.qlik.com/en-US/migration/Content/Migration/qliksense-qliksense-planning-your-migration.htm "Planning your migration to Qlik Cloud") in advance. Here are some steps that you should perform as part of your planning process:
