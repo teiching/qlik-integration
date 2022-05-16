@@ -11,10 +11,9 @@ If you are coming from QlikView, you can upload and access your existing QlikVie
 
 In case these conditions are met you will be able to:
 
-* Publish a QlikView app with QlikView Publisher to your Qlik Sense Enterprise SaaS environment. QlikView apps in Qlik Sense SaaS can be explored inside Qlik Cloud, but are view-only!
+* Publish a QlikView app with QlikView Publisher to your Qlik Sense Enterprise SaaS environment. QlikView apps in Qlik Sense SaaS can be explored inside Qlik Cloud, but are view-only.
 * Publish a link to a QlikView app inside Qlik Sense Enterprise SaaS. Accessing a QlikView app through this link will redirect you to the QlikView AccessPoint where you can explore the app given that you are able to access the QlikView server from your network
-*    
-
+* Manually upload a QlikView file (.qvw) from your environment to your personal space inside the Qlik Sense cloud hub. In the cloud hub you can share the app with other tennant members in a shared or managed space. Users will only be able to access the app in view-only mode and not perform any edits or reload the data. So make sure the app is reloaded before you upload it!  
 
 Further information on how to use QlikView with Qlik Sense SaaS in a multicloud deployment can be found in the [Qlik Help](https://help.qlik.com/en-US/cloud-services/Subsystems/Hub/Content/Global_Common/Migrate/using-QV-cloud-hub.htm "Qlik View apps in Qlik Sense")
 
