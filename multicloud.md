@@ -19,7 +19,7 @@ As shown in the diagram below, the detailed assessment should be the starting po
 There are several tools and options available that can assist you during the assessment and migration process:
 * Engage with Qlik Presales / Consulting to obtain a detailed assessment of your current apps and their SaaS readiness.
 * Use the [Qlik Cloud migration tools](https://help.qlik.com/en-US/migration/Content/Migration/Qlik-migration-playbook.htm "Qlik Cloud migration tools") (a Qlik Sense App, migration scripts and a migration playbook) to help you during the migration process.
-* Qlik Consulting also offers various packages that can actively support you during your migration, e.g. a "Qlik on-prem to cloud migration" package. Check out our what's available in the latest version of our [Qlik Consulting Catalog](https://www.qlik.com/us/services/qlik-consulting "Qlik Consulting Catalog")
+* Qlik Consulting also offers various packages that can actively support you during your migration, e.g. a "Qlik on-prem to cloud migration" package. Check out  what's available in the latest version of our [Qlik Consulting Catalog](https://www.qlik.com/us/services/qlik-consulting "Qlik Consulting Catalog")
 
 Further detailed information on the migration to Qlik Cloud can be found in our Migration Center (click on the image below to get there)!
 
