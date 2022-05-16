@@ -12,7 +12,7 @@ Migrating to Qlik Cloud from your on-premis Qlik system is a journey that requir
 * Run an assessment of your current system to collect information and metrics that facilitate the planning process, e.g. How many apps do you have? What are their usage metrics? What datasources are you currently using in you analytics apps and how can these be made available for consumption in the cloud?
 * Define your strategic direction for moving your analytics to the cloud based on your business needs.
 
-As shown below, this detailed assessment should be the starting point of your journey. Click on the image for further information regarding the planning process in our Qlik Migration Center!   
+As shown below, the detailed assessment should be the starting point in our recommended phased approach. Click on the image for further information regarding the planning process in our Qlik Migration Center!   
 
 [![Phases of migration to Qlik Cloud](https://help.qlik.com/en-US/migration/Content/Resources/Images/SaaSMigrationPhases.png "Phases of migration to Qlik Cloud")](https://help.qlik.com/en-US/migration/Content/Migration/qliksense-qliksense-planning-your-migration.htm)
 
