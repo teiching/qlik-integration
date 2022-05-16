@@ -9,7 +9,7 @@ This page will provide you with some information about the most common multi-clo
 ## Migrating to Qlik Sense SaaS
 Migrating to Qlik Cloud is a journey that 
 
-[![Phases of migration to Qlik Cloud](https://help.qlik.com/en-US/migration/Content/Resources/Images/SaaSMigrationPhases.png "Phases of migration to Qlik Cloud")](https://help.qlik.com/en-US/migration/Content/Resources/Images/SaaSMigrationPhases.png)
+[![Phases of migration to Qlik Cloud](https://help.qlik.com/en-US/migration/Content/Resources/Images/SaaSMigrationPhases.png "Phases of migration to Qlik Cloud")](https://help.qlik.com/en-US/migration/Content/Migration/qliksense-qliksense-planning-your-migration.htm)
 
 ### Key considerations
 ### Best-practice workflow
