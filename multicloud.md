@@ -4,6 +4,20 @@ This page will provide you with some information about the most common multi-clo
 
 ## Common Multi-Cloud scenarios
 ### Using QlikView with Qlik Sense SaaS
+If you are coming from QlikView, you can upload and access your existing QlikView apps to Qlik Sense SaaS given the following prerequisits are met:
+
+* Your QlikView release is at least April 2019 or newer
+* Your QlikView license is a [Unified License](https://community.qlik.com/t5/Knowledge/QlikView-amp-Qlik-Sense-Unified-Dual-Use-License-User-Allocation/ta-p/1717668) with SaaS Add-on.
+
+In case these conditions are met you will be able to:
+
+* Publish a QlikView app with QlikView Publisher to your Qlik Sense Enterprise SaaS environment. QlikView apps in Qlik Sense SaaS can be explored inside Qlik Cloud, but are view-only!
+* Publish a link to a QlikView app inside Qlik Sense Enterprise SaaS. Accessing a QlikView app through this link will redirect you to the QlikView AccessPoint where you can explore the app given that you are able to access the QlikView server from your network
+*    
+
+
+Further information on how to use QlikView with Qlik Sense SaaS in a multicloud deployment can be found in the [Qlik Help](https://help.qlik.com/en-US/cloud-services/Subsystems/Hub/Content/Global_Common/Migrate/using-QV-cloud-hub.htm "Qlik View apps in Qlik Sense")
+
 ### Using Qlik Sense Client Managed with Qlik Sense SaaS
 
 ## Migrating to Qlik Sense SaaS
@@ -17,6 +31,7 @@ As shown in the diagram below, the detailed assessment should be the starting po
 [![Phases of migration to Qlik Cloud](https://help.qlik.com/en-US/migration/Content/Resources/Images/SaaSMigrationPhases.png "Phases of migration to Qlik Cloud")](https://help.qlik.com/en-US/migration/Content/Migration/qliksense-qliksense-planning-your-migration.htm)
 
 There are several tools and options available that can assist you during the assessment and migration process:
+
 * Engage with Qlik Presales / Consulting to obtain a detailed assessment of your current apps and their SaaS readiness.
 * Use the [Qlik Cloud migration tools](https://help.qlik.com/en-US/migration/Content/Migration/Qlik-migration-playbook.htm "Qlik Cloud migration tools") (a Qlik Sense App, migration scripts and a migration playbook) to help you during the migration process.
 * Qlik Consulting also offers various packages that can actively support you during your migration, e.g. a "Qlik on-prem to cloud migration" package. Check out  what's available in the latest version of our [Qlik Consulting Catalog](https://www.qlik.com/us/services/qlik-consulting "Qlik Consulting Catalog")
