@@ -1,6 +1,6 @@
 # Multi-Cloud
 Using your existing QlikView or Qlik Sense Client Managed deployment along with Qlik Sense Enterprise on SaaS will enable you to bring everything together in a multi-cloud environment, making the most of your existing components and migrating entirely to SaaS at some point.
-This page will provide you with some information about the most common multi-cloud scenarios and also provide you with some best-practize guidance on how to approach the migration to a full SaaS solution.
+This page will provide you with some information about the most common multi-cloud scenarios and also provide you with some best-practise guidance on how to approach the migration to a full SaaS solution.
 
 ## Common Multi-Cloud scenarios
 ### Using QlikView with Qlik Sense SaaS
